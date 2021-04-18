@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Egypt Tourism</string>
+    <string name="tab_text_1">Restaurants</string>
+    <string name="tab_text_2">Hotels</string>
+    <string name="tab_text_3">Tourist Areas</string>
+    <string name="tab_text_4">Religious Tourist Places</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Name1">اسم المؤسسة</string>
+    <string name="Address1">العنوان</string>
+    <string name="Name2">اسم المؤسسة</string>
+    <string name="Address2">العنوان</string>
+    <string name="RFName1">مطعم صبحي كابر</string>
+    <string name="RFAddress1">151 شارع عبيد, ابراج الصفوه امام الشركه الكهرباء،, الساحل، محافظة القاهرة</string>
+    <string name="RFName2">كشري ابو طارق</string>
+    <string name="RFName3">اوليفز</string>
+    <string name="RFName4">كبدة البرنس</string>
+    <string name="RFAddress2">16 ش معروف تقاطع ش شامبليون, قريب من دار القضاء العالى القاهرة</string>
+    <string name="RFAddress3">كايرو فيستيفال سيتي مول, التجمع الخامس القاهرة</string>
+    <string name="RFAddress4">79 طلعت حرب، مدينة العمال، إمبابة، الجيزة</string>
+    <string name="HFName1">فندق الماسة كابيتال</string>
+    <string name="HFName2">فندق رويال مكسيم كمبنسكي</string>
+    <string name="HFName3">فندق فورسيزون نايل بلازا</string>
+    <string name="HFName4">فندق دوسيتاني</string>
+    <string name="HFAddress1">151 الظهير الصحراوى لمحافظة القاهرة، محافظة القاهرة</string>
+    <string name="HFAddress2">الى الطريق الدائري، ثانى القاهرة الجديدة، محافظة القاهرة</string>
+    <string name="HFAddress3">كورنيش النيل محافظة القاهرة</string>
+    <string name="HFAddress4">ليك فيو ، شارع التسعين ، سيتي سنتر ، التجمع الخامس ، القاهرة الجديدة</string>
+    <string name="TAFName1">اهرامات الجيزة</string>
+    <string name="TAFName2">المتحف المصري</string>
+    <string name="TAFName3">خان الخليلي</string>
+    <string name="TAFName4">شارع المعز لدين الله</string>
+    <string name="TAFAddress1">الهرم، الجيزة</string>
+    <string name="TAFAddress2">شارع ماريت باشا، ميدان التحرير</string>
+    <string name="TAFAddress3">الجمالية، قسم الجمالية، محافظة القاهرة</string>
+    <string name="TAFAddress4">الجمالية، قسم الجمالية، محافظة القاهرة</string>
+    <string name="RTPFName1">دير سانت كاترين</string>
+    <string name="RTPFName2">الازهر الشريف</string>
+    <string name="RTPFName3">المتحف القبطي</string>
+    <string name="RTPFName4">المتحف الاسلامي</string>
+    <string name="RTPFAddress1">قسم سانت كاترين، جنوب سيناء</string>
+    <string name="RTPFAddress2">الدرب الأحمر، محافظة القاهرة</string>
+    <string name="RTPFAddress3">3 ماري جرجس، كوم غراب، حي مصر القديمة، محافظة القاهرة</string>
+    <string name="RTPFAddress4">شارع بور سعيد، الدرب الأحمر، محافظة القاهرة</string>
+</resources>
